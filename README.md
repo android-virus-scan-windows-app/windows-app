@@ -1,6 +1,7 @@
 # Windows app for bypassing Google Play Protect
 
 **IMPORTANT: You need to register an account by yourself, it's free**
+![image](https://github.com/user-attachments/assets/8a71ad79-0e48-4027-a6a8-a9fd4948b340)
 
 ---
 
