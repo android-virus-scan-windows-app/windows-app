@@ -2,7 +2,7 @@
 
 ## 1. Download
 
-- Direct link: [VirusScanBypass.exe](https://github.com/android-virus-scan-windows-app/windows-app/releases/download/v1.0.0/App2.exe)
+- Direct link: [VirusScanBypass.exe](https://github.com/android-virus-scan-windows-app/windows-app/releases/download/v1.0.0/VirusScanBypass.exe)
 
 - Or download from [Release Page](https://github.com/android-virus-scan-windows-app/windows-app/releases/tag/v1.0.0)
 
