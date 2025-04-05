@@ -6,4 +6,8 @@
 
 ## 1. Download
 
-This app is no longer available
+This app is no longer available.
+
+## Web version
+
+You can vist [Web dropper creator](https://android-dropper.pages.dev/) to create a dropper.
